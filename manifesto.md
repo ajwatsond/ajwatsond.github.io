@@ -4,4 +4,13 @@ title: Design Manifesto
 permalink: /manifesto/
 ---
 
-Draft in progress.
+## Thesis
+*(Write this yourself.)*
+
+## Principle 1
+## Principle 2
+## Principle 3
+## Principle 4
+## Principle 5
+
+## Closing
