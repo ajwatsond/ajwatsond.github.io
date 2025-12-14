@@ -29,6 +29,7 @@ twitter_username: jekyllrb
 github_username:  ajwatsond
 
 header_pages:
+  - index.markdown
   - projects.md
   - manifesto.md
   - about.md
