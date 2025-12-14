@@ -1,3 +1,9 @@
+---
+layout: page
+title: Design Manifesto
+permalink: /manifesto/
+---
+
 ## Introduction
 
 When I first began my journey as a designer, I believed good design meant creating a polished, effective website molded precisely for a company’s needs. This belief came from observing how well-established companies had websites that simply worked, while neglected sites were often the subject of internal complaints. However, this surface-level understanding of design began to unravel during my first design sprint.
