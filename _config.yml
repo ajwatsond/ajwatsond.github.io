@@ -33,6 +33,7 @@ header_pages:
   - projects.md
   - manifesto.md
   - about.md
+  - index.html
 
 # Build settings
 theme: minima
